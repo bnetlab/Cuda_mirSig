@@ -1,0 +1,8 @@
+*.tsv
+*.csv
+*.txt
+log
+*.npy
+intermidiate
+.ipynb_checkpoints
+
